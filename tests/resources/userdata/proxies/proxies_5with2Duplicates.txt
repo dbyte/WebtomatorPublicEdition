@@ -1,0 +1,5 @@
+foo.bar.com:8080:some-user:some_pass
+162.182.79.100:8080:some-user:some_pass
+super.expensive.proxy:9283
+162.182.79.100:8080:some-user:some_pass
+foo.bar.com:8080:some-user:some_pass

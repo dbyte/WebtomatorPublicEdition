@@ -1,0 +1,101 @@
+{
+  "ActionBundles": [
+    {
+      "version": 1.0,
+      "name": "TestStory-New Balance 720 AC",
+      "actions": [
+        {
+          "command": 2,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "https://footdistrict.com/en/new-balance-720-ac-wl720ac.html",
+          "maxWait": 0.0
+        },
+        {
+          "command": 7,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 0.6
+        },
+        {
+          "command": 9,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//html/body/div[1]/div[3]/div/div[2]/div[2]/div[4]/div[6]/dl/dd/div/select",
+          "textToSend": "40",
+          "maxWait": 0.0
+        },
+        {
+          "command": 7,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 1.98
+        },
+        {
+          "command": 4,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//html/body/div[1]/div[3]/div/div[2]/div[2]/div[4]/div[7]/div/button",
+          "textToSend": "",
+          "maxWait": 0.0
+        },
+        {
+          "command": 6,
+          "searchStrategy": "id",
+          "searchIdentifier": "shopping-cart-totals-table",
+          "textToSend": "",
+          "maxWait": 3.0
+        },
+        {
+          "command": 4,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//html/body/div[4]/div/div[1]/div/div/div[1]/div[2]/ul/li/button",
+          "textToSend": "",
+          "maxWait": 0.0
+        },
+        {
+          "command": 6,
+          "searchStrategy": "id",
+          "searchIdentifier": "billing_address",
+          "textToSend": "",
+          "maxWait": 7.0
+        },
+        {
+          "command": 3,
+          "searchStrategy": "id",
+          "searchIdentifier": "billing:firstname",
+          "textToSend": "Horst",
+          "maxWait": 0.0
+        },
+        {
+          "command": 3,
+          "searchStrategy": "id",
+          "searchIdentifier": "billing:lastname",
+          "textToSend": "Hodensack",
+          "maxWait": 0.0
+        },
+        {
+          "command": 3,
+          "searchStrategy": "id",
+          "searchIdentifier": "billing:email",
+          "textToSend": "wenn-der-schuh-drueckt@punkt.de",
+          "maxWait": 0.0
+        },
+        {
+          "command": 7,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 2.0
+        },
+        {
+          "command": 8,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 0.0
+        }
+      ]
+    }
+  ]
+}

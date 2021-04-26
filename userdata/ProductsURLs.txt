@@ -1,0 +1,8 @@
+# This file must be present in production mode - although it may be empty.
+# Example URL list (uncomment for your real data)
+
+# https://www.sneak-a-venue.de/nike-air-max-95-se-white-229724
+# https://www.sneak-a-venue.de/jordan-air-jordan-3-retro-se-denim-fire-red-230492
+# https://www.bstn.com/en/p/nike-air-foamposite-1-cj0303-400-187945
+# https://www.footlocker.de/en/p/jordan-1-low-men-shoes-4102
+# https://footdistrict.com/en/new-balance-720-ac-wl720ac.html

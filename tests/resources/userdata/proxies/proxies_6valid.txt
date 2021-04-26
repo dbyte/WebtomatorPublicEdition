@@ -1,0 +1,11 @@
+# Dummy Proxies. No need to .gitignore.
+
+foo.bar.com:8080:some-user:some_pass
+162.182.79.100:8080:some-user:some_pass
+foo.bar.com:5988:some-user2:some_pass
+# foo.disabled.com:9387:some-user891:some_pass
+foo.bar.com:3947:some-user3:some_pass
+# foo.disabled.com:5988:some-use4:some_pass
+foo.bar.com:5988:some-user5:some_pass
+foo.bar.com:8264:some-use4:some_pass
+# also.disabled.com:7777:some-user6:some_pass

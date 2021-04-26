@@ -1,0 +1,24 @@
+# This is a testfile with a collection of 9 valid product URLs.
+# Lines starting with a '#' are expected to be a comment line.
+# We may also use comment lines for ignoring a product URL by the URL DAO.
+#
+# Do not change existing values, as they may be compared to expected test results!
+
+# Some formal valid URLs:
+https://www.solebox.com/Footwear/Outdoor/Response-Hoverturf-GF6100AM-variant.html
+http://real.fantastic.de/shop/buy-new-holo?prodid=682357ac
+http://real.fantastic.de/shop/great-realdumbtrump.htm
+
+# Sub shop structures
+https://www.dbyte.org/shop/one/product01.html
+https://www.dbyte.org/shop/one/product02.html
+
+https://www.dbyte.org/shop/two/specialproduct01.html
+https://www.dbyte.org/shop/two/very-specialproduct02.html
+
+https://www.dbyte.org/specialdeal/buythis01.html
+https://www.dbyte.org/specialdeal/one-more-path/buythat.htm
+
+# URLs expected to be invalid
+ps://this.should.com/be-an-invalid-url/because-it/does-not-start-with-http
+this.should.com/be-an-invalid-url/because-it/does-not-have-any-applied-scheme.html

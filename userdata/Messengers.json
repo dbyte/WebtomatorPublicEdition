@@ -1,0 +1,36 @@
+{
+  "_default": {},
+  "Discord": {
+    "1": {
+      "apiType": "webhook",
+      "apiEndpoint": "https://discordapp.com/api/webhooks/"
+    },
+    "2": {
+      "configName": "product-msg-config",
+      "user": "your-discord-username",
+      "token": "your-discord-token",
+      "useRandomProxy": false,
+      "timeout": 4,
+      "maxRetries": 3,
+      "username": "Webtomator Product update"
+    },
+    "3": {
+      "configName": "error-msg-config",
+      "user": "some-additional-discord-username",
+      "token": "some-additional-discord-token",
+      "useRandomProxy": false,
+      "timeout": 4,
+      "maxRetries": 2,
+      "username": "Webtomator Error"
+    },
+    "4": {
+      "configName": "log-msg-config",
+      "user": "some-additional-discord-username",
+      "token": "some-additional-discord-token",
+      "useRandomProxy": false,
+      "timeout": 3,
+      "maxRetries": 2,
+      "username": "Webtomator Log"
+    }
+  }
+}

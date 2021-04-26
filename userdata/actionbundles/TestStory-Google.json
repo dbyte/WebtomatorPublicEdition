@@ -1,0 +1,59 @@
+{
+  "ActionBundles": [
+    {
+      "version": 1.0,
+      "name": "TestStory-Google",
+      "actions": [
+        {
+          "command": 2,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "https://google.de",
+          "maxWait": 0.0
+        },
+        {
+          "command": 3,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//*[@id='tsf']/div[2]/div[1]/div[1]/div/div[2]/input",
+          "textToSend": "Hallo, ich suche Stühle",
+          "maxWait": 0.0
+        },
+        {
+          "command": 7,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 2.0
+        },
+        {
+          "command": 5,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//*[@id='tsf']/div[2]/div[1]/div[3]/center/input[1]",
+          "textToSend": "",
+          "maxWait": 0.0
+        },
+        {
+          "command": 6,
+          "searchStrategy": "text",
+          "searchIdentifier": "Stühle günstig kaufen",
+          "textToSend": "",
+          "maxWait": 5.0
+        },
+        {
+          "command": 4,
+          "searchStrategy": "xPath",
+          "searchIdentifier": "//*[@id='rso']/div[5]/div/div[1]/a/h3",
+          "textToSend": "",
+          "maxWait": 0.0
+        },
+        {
+          "command": 8,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# This file has 3 valid User Agents. Inactive user agents must start with char '#'.
+# Do not change the values of the valid ones here, as their values are compared against tests.
+
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9)
+     #Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.31 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/534.31
+Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36)
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36)
+ ##

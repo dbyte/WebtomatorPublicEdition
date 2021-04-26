@@ -1,0 +1,4 @@
+# This is a testfile with a collection of ZERO valid product URLs.
+# Lines starting with a '#' are expected to be a comment line.
+#
+# Do not add any valid URLs values!

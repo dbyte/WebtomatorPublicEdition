@@ -1,0 +1,52 @@
+{
+  "_default": {},
+  "Config": {
+    "1": {
+      "logger": {
+        "isConsoleLogging": true,
+        "isFileLogging": true,
+        "consoleLogLevel": 20,
+        "fileLogLevel": 15
+      }
+    },
+    "2": {
+      "scraperCommon": {
+        "iterSleepFromScnds": 13,
+        "iterSleepToScnds": 20,
+        "iterSleepSteps": 0.5,
+        "fetchTimeoutScnds": 8,
+        "fetchMaxRetries": 4,
+        "fetchUseRandomProxy": true,
+        "postTimeoutScnds": 7,
+        "postMaxRetries": 3,
+        "postUseRandomProxies": true
+      }
+    },
+    "3": {
+      "scraperByUrl": {
+        "https://www.just-an-example-scraper-url.com": {
+          "iterSleepFromScnds": 10,
+          "iterSleepToScnds": 15,
+          "iterSleepSteps": 0.5,
+          "fetchTimeoutScnds": 8,
+          "fetchMaxRetries": 4,
+          "fetchUseRandomProxy": true,
+          "postTimeoutScnds": 7,
+          "postMaxRetries": 3,
+          "postUseRandomProxies": true
+        },
+        "https://some-other-scraper-url.com": {
+          "iterSleepFromScnds": 10,
+          "iterSleepToScnds": 15,
+          "iterSleepSteps": 0.5,
+          "fetchTimeoutScnds": 8,
+          "fetchMaxRetries": 4,
+          "fetchUseRandomProxy": true,
+          "postTimeoutScnds": 7,
+          "postMaxRetries": 3,
+          "postUseRandomProxies": true
+        }
+      }
+    }
+  }
+}

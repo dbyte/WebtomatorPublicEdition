@@ -1,0 +1,3 @@
+# Dummy Proxies. No need to .gitignore.
+
+foo.bar.com:8080:some-user:some_pass

@@ -1,0 +1,26 @@
+# This is a collection of real endpoints to scan for existing products.
+#
+# Used for integration tests. Do not compare URL values directly in tests, as they may
+# change here when products are outdated.
+
+# Most important:
+https://www.solebox.com/en_DE/p/adidas_consortium-response_hoverturf_gf6100am_-grethr%2Fcwhite%2Fmaroon-01746620.html
+https://www.solebox.com/en_DE/p/y_3-kaiwa_knot-ftwr_white%2Fftwr_white%2Fred-01800411.html
+
+https://www.43einhalb.com/new-balance-m997sob-made-in-usa-seasonal-colors-mint-357547
+https://www.bstn.com/en/adidas-zx-8000-ef4364-147994
+https://www.bstn.com/en/p/nike-air-foamposite-1-cj0303-400-187945
+https://www.bstn.com/en/p/nike-adapt-bb-20-eu-cv2441-001-179494
+
+# Footdistrict
+https://footdistrict.com/en/new-balance-720-ac-wl720ac.html
+https://footdistrict.com/en/new-balance-996-vhb-wl996vhb.html
+https://footdistrict.com/en/converse-x-golf-le-fleur-gianno-168180c.html
+
+# Sneak-a-venue
+https://www.sneak-a-venue.de/jordan-air-jordan-3-retro-se-denim-fire-red-230492
+https://www.sneak-a-venue.de/nike-air-max-95-se-white-229724
+
+# Others
+https://www.footlocker.de/en/p/jordan-1-low-men-shoes-4102
+# https://www.sneakersnstuff.com/de/product/30612/adidas-campus  deactivated, never succeeds )-:

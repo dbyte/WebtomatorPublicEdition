@@ -1,0 +1,12 @@
+{
+  "ActionBundles": [
+    {
+      "version": 1.0,
+      "name": "TestStory-EmptyActions",
+      "actions": [
+        {
+        }
+      ]
+    }
+  ]
+}

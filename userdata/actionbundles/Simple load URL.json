@@ -1,0 +1,24 @@
+{
+  "ActionBundles": [
+    {
+      "version": 1.0,
+      "name": "Simple load URL",
+      "actions": [
+        {
+          "command": 2,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "https://google.de",
+          "maxWait": 0.0
+        },
+        {
+          "command": 8,
+          "searchStrategy": "",
+          "searchIdentifier": "",
+          "textToSend": "",
+          "maxWait": 0.0
+        }
+      ]
+    }
+  ]
+}
